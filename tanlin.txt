@@ -1,2 +1,4 @@
 testforgit change
-change1
+changefortest
+change2
+change3
